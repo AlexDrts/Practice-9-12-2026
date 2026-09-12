@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="YAKOS.Application/YAKOS.Application.csproj" />
+  <Project Path="YAKOS.WebApi/YAKOS.WebApi.csproj" />
+</Solution>
